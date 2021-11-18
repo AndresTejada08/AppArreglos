@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="paises">
+        <item>Argentina</item>
+        <item>Brasil</item>
+        <item>Bolivia</item>
+        <item>Chile</item>
+        <item>Ecuador</item>
+        <item>Perú</item>
+    </string-array>
+    <string-array name="departamentos">
+        <item>Lima</item>
+        <item>Cusco</item>
+        <item>Arequipa</item>
+        <item>Trujillo</item>
+        <item>Cajamarca</item>
+        <item>Tacna</item>
+    </string-array>
+    <string-array name="distritos">
+        <item>Wanchaq</item>
+        <item>San Jerónimo</item>
+        <item>Santiago</item>
+        <item>San Sebastián</item>
+        <item>Poroy</item>
+        <item>Saylla</item>
+    </string-array>
+    <string-array name="anexos">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
